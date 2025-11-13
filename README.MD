@@ -7,7 +7,7 @@
 ```
 cd ./presidio-anonymizer
 poetry install
-poetry run sample.py
+poetry run python sample.py
 ```
 The output should be:
 ```
